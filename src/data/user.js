@@ -72,7 +72,7 @@ const INFO = {
 				"NerdBunny is an exciting tap-to-earn game integrated into Telegram, where players can earn rewards simply by engaging in fun, interactive gameplay. Designed for ease of use, NerdBunny combines casual gaming mechanics with blockchain-based rewards, making it an enjoyable and rewarding experience for players of all levels.",
 			logo: "./ton.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://t.me/NerdBunny_bot",
 		},
 
 		{
@@ -81,7 +81,7 @@ const INFO = {
 				"NerdNugget is a tap-to-earn game built on Telegram, offering a fun and rewarding experience where players can tap, play, and earn crypto rewards. Similar to NerdBunny, NerdNugget provides an engaging way to compete, complete challenges, and climb leaderboards while earning blockchain-based incentives.",
 			logo: "./ton.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://t.me/NerdNuggets_bot",
 		},
 
 		{
@@ -90,7 +90,7 @@ const INFO = {
 				"Lowden Street Capital is an innovative platform that leverages ERC-751 NFTs to grant holders exclusive access to premium financial services and benefits. These unique NFTs serve as a digital membership, unlocking specialized offerings within the Lowden Street Capital ecosystem.",
 			logo: "./lowden.png",
 			linkText: "View Project",
-			link: "https://www.lowdenstreet.com/",
+			link: "https://www.lowdenstreet.com/nft-queenie-marketing/",
 		},
 
 		{
